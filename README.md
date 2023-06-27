@@ -1,3 +1,25 @@
+
+# Random Number Application
+## Description
+Project gives us a random number, between two number which we determine. 
+## Project Skeleton
+```
+|----public
+        |----index.html
+|----src        
+       |----App.js
+       |----style.css
+       |----index.css
+       |----index.js
+|----readme.md  
+
+```
+## Project-gif
+![JavaScript-project](https://raw.githubusercontent.com/achieve-software/achieve-software/main/img/r13randomnum.gif)
+## Project-link
+https://cheerful-heliotrope-b7f03a.netlify.app/
+### At the end of the project, following topics are to be covered;
+-React
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
